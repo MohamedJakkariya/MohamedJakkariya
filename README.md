@@ -1,9 +1,9 @@
 <!-- @format -->
 
-<div style="display: block; text-align:center;">
-    <h1 style="float: left;">G'day! I'm MD. &#x1F44B;</h1>
-    <img src="./img/developer1.png" alt="show case image" width="200" height="200"  />
-</div>
+<p align="center">
+   G'day! I'm MD. &#x1F44B;
+   <img src="./img/developer1.png" alt="show case image" width="200" height="200"  />
+</p>
 
 <!--
 **MohamedJakkariya/MohamedJakkariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
