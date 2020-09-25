@@ -4,7 +4,7 @@
    <img src="./img/developer1.png" alt="Call me MD!" width="200" height="200"  />
 </p>
 
-<p style="font-size : 28px" align="center">
+<p style="font-size : 50px" align="center">
    G'day! I'm MD. &#x1F44B;
 </p>
 
