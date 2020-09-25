@@ -4,15 +4,16 @@
    <img src="./img/developer1.png" alt="Call me MD!" width="200" height="200"  />
 </p>
 
-<p style="font-size : 50px" align="center">
+<p style="font-size : 40px" align="center">
    G'day! I'm MD. &#x1F44B;
 </p>
 
 <p style="line-height:1.6; word-spacing: 1.4px; font-size:16px;">
-    I'm a full stack dev student. Currently persuing 3rd year B.E. Computer Science and Engineering. Basically passionate and love with programming. In future will become a android developer. I like to teach and foody guy but look like a slim. My free time spent with social media, book reading, movie series and so on.
+    I'm a full stack developer. Currently pursuing 3rd Year in my Computer Science and Engineering. Basically passionate and love with programming. In future, I will become an android developer. I like to teach and I'm a foody guy but will look slim. My free time will be spent with social media, book reading, series watching and so on.
 </p>
 
-<p style="line-height:1.6; word-spacing: 1.4px; font-size:16px;">I'm done some of projects with full stack and internships. Currently working on Fleksa organization as a internship duration 3 - 5 months.</p>
+<p style="line-height:1.6; word-spacing: 1.4px; font-size:16px;">I have done some projects on full stack in an internship. Currently working on Fleska organization as an internship. Duration: 3-5 months.
+</p>
 
 <p align="center" style="padding:10px 0">
     <a href="#" style="padding:0 5px">
