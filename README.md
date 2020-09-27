@@ -1,12 +1,17 @@
 <!-- @format -->
-
+<!-- 
 <p align="center">
    <img src="./img/developer1.png" alt="Call me MD!" width="200" height="200"  />
-</p>
+</p> -->
 
 <!-- <p style="font-size : 40px" align="center"> -->
 ## G'day! I'm MD. &#x1F44B;
 <!-- </p> -->
+<p>
+  <a href="https://dipvachhani.tech/">
+    <img src="https://user-images.githubusercontent.com/20175372/87330405-d1fbc500-c538-11ea-8dca-55854d681b31.gif"/>
+  </a>
+</p>
 
 <p style="line-height:1.6; word-spacing: 1.4px; font-size:16px;">
     I'm a full stack developer. Currently pursuing 3rd Year in my Computer Science and Engineering. Basically passionate and love with programming. In future, I will become an android developer. I like to teach and I'm a foody guy but will look slim. My free time will be spent with social media, book reading, series watching and so on.
