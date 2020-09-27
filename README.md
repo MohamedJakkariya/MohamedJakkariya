@@ -19,22 +19,22 @@
 <p align="center" style="padding:10px 0">
     <a href="#" style="padding:0 5px">
         <img src="./img/social_media/instagram.png" width="30">
-    </a>
+    </a>&nbsp;&nbsp;
      <a href="#" style="padding:0 5px">
         <img src="./img/social_media/twitter.png" width="30">
-    </a>
+    </a>&nbsp;&nbsp;
      <a href="#" style="padding:0 5px">
         <img src="./img/social_media/facebook.png" width="30">
-    </a>
+    </a>&nbsp;&nbsp;
      <a href="#" style="padding:0 5px">
         <img src="./img/social_media/gmail.png" width="30">
-    </a>
+    </a>&nbsp;&nbsp;
      <a href="#" style="padding:0 5px">
         <img src="./img/social_media/linkedin.png" width="30">
-    </a>
+    </a>&nbsp;&nbsp;
      <a href="#" style="padding:0 5px">
         <img src="./img/social_media/youtube.png" width="30">
-    </a>
+    </a>&nbsp;&nbsp;
      <a href="#" style="padding:0 5px">
         <img src="./img/social_media/telegram.png" width="30">
     </a>
