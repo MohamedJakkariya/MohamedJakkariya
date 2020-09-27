@@ -15,9 +15,8 @@
   </a>
 </p>
 
-<p style="line-height:1.6; word-spacing: 1.4px; font-size:16px;">
-    I'm a full stack developer. Currently pursuing 3rd Year in my Computer Science and Engineering. Basically passionate and love with programming. In future, I will become an android developer. I like to teach and I'm a foody guy but will look slim. My free time will be spent with social media, book reading, series watching and so on.
-</p>
+
+#### I'm a full stack developer. Currently pursuing 3rd Year in my Computer Science and Engineering. Basically passionate and love with programming. In future, I will become an android developer. I like to teach and I'm a foody guy but will look slim. My free time will be spent with social media, book reading, series watching and so on.
 
 <p style="line-height:1.6; word-spacing: 1.4px; font-size:16px;">I have done some projects on full stack in an internship. Currently working on Fleska organization as an internship. Duration: 3-5 months.
 </p>
