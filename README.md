@@ -23,26 +23,20 @@ I have done some projects on full stack in an internship. Currently working on <
 ### Connect with me
 
 <p align="center" style="padding:10px 0">
-    <a href="#" style="padding:0 5px">
+    <a href="https://www.instagram.com/mhmd_jack_thasin/" style="padding:0 5px">
         <img src="./img/social_media/instagram.png" width="30">
     </a>&nbsp;&nbsp;
-     <a href="#" style="padding:0 5px">
+     <a href="https://twitter.com/MdjackP" style="padding:0 5px">
         <img src="./img/social_media/twitter.png" width="30">
     </a>&nbsp;&nbsp;
-     <a href="#" style="padding:0 5px">
+     <a href="https://www.facebook.com/mohamed.jakkariya.338" style="padding:0 5px">
         <img src="./img/social_media/facebook.png" width="30">
     </a>&nbsp;&nbsp;
-     <a href="#" style="padding:0 5px">
+     <a href="mailto:jacksparrow.mdjack@gmail.com?subject=Contact" style="padding:0 5px">
         <img src="./img/social_media/gmail.png" width="30">
     </a>&nbsp;&nbsp;
-     <a href="#" style="padding:0 5px">
+     <a href="https://www.linkedin.com/in/mohamed-jakkariya-a72850166/" style="padding:0 5px">
         <img src="./img/social_media/linkedin.png" width="30">
-    </a>&nbsp;&nbsp;
-     <a href="#" style="padding:0 5px">
-        <img src="./img/social_media/youtube.png" width="30">
-    </a>&nbsp;&nbsp;
-     <a href="#" style="padding:0 5px">
-        <img src="./img/social_media/telegram.png" width="30">
     </a>
 </p>
 
