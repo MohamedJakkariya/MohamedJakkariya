@@ -15,7 +15,7 @@
 <p style="line-height:1.6; word-spacing: 1.4px; font-size:16px;">I have done some projects on full stack in an internship. Currently working on Fleska organization as an internship. Duration: 3-5 months.
 </p>
 
-### Social media 
+### Connect with me  
 <p align="center" style="padding:10px 0">
     <a href="#" style="padding:0 5px">
         <img src="./img/social_media/instagram.png" width="30">
@@ -47,7 +47,7 @@
 
 <!-- Language cards  -->
 <a href="https://github.com/MohamedJakkariya/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedJakkariya&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedJakkariya&layout=compact&langs_count=8" />
 </a>
 <!--
 **MohamedJakkariya/MohamedJakkariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
