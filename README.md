@@ -4,9 +4,9 @@
    <img src="./img/developer1.png" alt="Call me MD!" width="200" height="200"  />
 </p>
 
-<p style="font-size : 40px" align="center">
-   G'day! I'm MD. &#x1F44B;
-</p>
+<!-- <p style="font-size : 40px" align="center"> -->
+## G'day! I'm MD. &#x1F44B;
+<!-- </p> -->
 
 <p style="line-height:1.6; word-spacing: 1.4px; font-size:16px;">
     I'm a full stack developer. Currently pursuing 3rd Year in my Computer Science and Engineering. Basically passionate and love with programming. In future, I will become an android developer. I like to teach and I'm a foody guy but will look slim. My free time will be spent with social media, book reading, series watching and so on.
@@ -15,7 +15,7 @@
 <p style="line-height:1.6; word-spacing: 1.4px; font-size:16px;">I have done some projects on full stack in an internship. Currently working on Fleska organization as an internship. Duration: 3-5 months.
 </p>
 
-<!-- Social media  -->
+### Social media 
 <p align="center" style="padding:10px 0">
     <a href="#" style="padding:0 5px">
         <img src="./img/social_media/instagram.png" width="30">
@@ -40,7 +40,7 @@
     </a>
 </p>
 
-<!-- State about me  -->
+### States about me 
 <a href="https://github.com/MohamedJakkariya/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MohamedJakkariya&count_private=true&show_icons=true&theme=vue&custom_title=Mdjack's%20statistics&hide=prs" />
 </a>
