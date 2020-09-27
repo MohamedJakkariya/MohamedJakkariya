@@ -15,12 +15,10 @@
   </a>
 </p>
 
-<p style="line-height:1.6; word-spacing: 1.4px; font-size:16px;">
-    I'm a <strong> [full stack developer](https://mddev.tech). </strong> Currently pursuing <strong> 3rd Year in my Computer Science and Engineering. </strong> Basically passsionate and love with programming. In future, I will become an android developer. I like to teach and I'm a foody guy but will look slim. My free time will be spent with social media, book reading, series watching and so on.
-</p>
 
-<p style="line-height:1.6; word-spacing: 1.4px; font-size:16px;">I have done some projects on full stack in an internship. Currently working on <strong>Fleska organization</strong> as an internship. Duration: 3-5 months.
-</p>
+I'm a <strong> [full stack developer](https://mddev.tech). </strong> Currently pursuing <strong> [3rd Year in my Computer Science and Engineering.](https://)</strong> Basically passsionate and love with programming. In future, I will become an android developer. I like to teach and I'm a foody guy but will look slim. My free time will be spent with social media, book reading, series watching and so on.
+
+I have done some projects on full stack in an internship. Currently working on <strong>[Fleska organization](https://fleksa.com)</strong> as an internship. Duration: 3-5 months.
 
 ### Connect with me
 
