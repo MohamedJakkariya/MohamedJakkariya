@@ -43,7 +43,7 @@ I have done some projects on full stack in an internship. Currently working on <
 ### States about me
 
 <a href="https://github.com/MohamedJakkariya/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MohamedJakkariya&count_private=true&show_icons=true&theme=vue&custom_title=Mdjack's%20statistics&hide=prs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MohamedJakkariya&count_private=true&show_icons=true&theme=vue&custom_title=Mdjack's%20statistics" />
 </a>
 
 <!-- Language cards  -->
