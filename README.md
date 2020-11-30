@@ -16,9 +16,9 @@
 </p>
 
 
-I'm a <strong> [full stack developer](https://mddev.tech). </strong> Currently pursuing <strong> [3rd Year in Computer Science and Engineering.](https://)</strong> Basically passsionate and love with programming. In future, I will become an android developer. I like to teach and I'm a foody guy but will look slim. My free time will be spent with social media, book reading, series watching and so on.
+I'm a <strong> [full stack developer](https://mddev.tech). </strong> Currently pursuing <strong> [Computer Science and Engineering.](https://)</strong> I'm very passsionate and in love with programming. In future, I'd like to become an android developer. I like to teach and I'm a foody guy but will look slim. I spend my free time scrolling though social media, reading books and watching series.
 
-I have done some projects on full stack in an internship. Currently working on <strong>[Zopnik organization](https://zopnik.com)</strong> as an internship. Duration: 3-5 months.
+I have done full stack some projects on in an internship. Currently working on <strong>[Zopnik organization](https://zopnik.com)</strong> as an intern.
 
 ### Connect with me
 
