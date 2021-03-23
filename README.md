@@ -26,7 +26,7 @@ I have done full stack some projects on in an internship. Currently working on <
     <a href="https://www.instagram.com/mhmd_jack_thasin/" style="padding:0 5px">
         <img src="./img/social_media/instagram.png" width="30">
     </a>&nbsp;&nbsp;
-     <a href="https://twitter.com/MdjackP" style="padding:0 5px">
+     <a href="https://twitter.com/md_devv" style="padding:0 5px">
         <img src="./img/social_media/twitter.png" width="30">
     </a>&nbsp;&nbsp;
      <a href="https://www.facebook.com/mohamed.jakkariya.338" style="padding:0 5px">
