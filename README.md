@@ -20,6 +20,83 @@ I'm a <strong> [full stack developer](https://mddev.tech). </strong> Currently p
 
 I have done full stack some projects on in an internship. Currently working on <strong>[Fleksa organization](https://fleksa.com)</strong> as an intern for almost 11 months from now.
 
+### Experienced in
+<table>
+   <thead>
+      <th>Languages</th>
+      <th>Scripts</th>
+      <th>Technologies</th>
+      <th>Front end Special Tools</th>
+      <th>Database</th>
+      <th>DevOps</th>
+      <th>Design Tools</th>
+   </thead>
+   <tr>  
+      <td>
+       <ul>
+         <li>Javascript</li>
+         <li>Typescript</li>
+         <li>Python</li>
+         <li>C</li>
+         <li>C++</li>
+         <li>Java</li>
+       </ul>
+      </td>
+       <td>
+       <ul>
+         <li>HTML5</li>
+         <li>Css3</li>
+         <li>Bash Script</li>
+       </ul>
+      </td>
+      <td>
+       <ul>
+         <li>React JS</li>
+         <li>Next JS</li>
+         <li>React Native</li>
+         <li>Electron JS</li>
+         <li>Node Js</li>
+         <li>Express Js</li>
+         <li>Swing Java</li>
+       </ul>
+      </td>
+      <td>
+       <ul>
+         <li>Styled Components</li>
+         <li>Redux</li>
+         <li>Material Design</li>
+         <li>Ant Design</li>
+         <li>Bootstrap 4 & 5</li>
+         <li>Feather Icons, Svg, Material Icons, and so on</li>
+       </ul>
+      </td>   
+       <td>
+       <ul>
+         <li>MongoDb</li>
+         <li>MySQL</li>
+         <li>DynamoDB</li>
+       </ul>
+      </td>
+      <td>
+       <ul>
+         <li>Jenkins</li>
+         <li>AWS basic</li>
+         <li>GitHub</li>
+         <li>GitLab</li>
+       </ul>
+      </td>
+       <td>
+       <ul> 
+         <li>Figma</li>
+         <li>Adobe Xd</li>
+         <li>StarUML</li>
+         <li>Lucid Chart</li>
+       </ul>
+      </td>
+   </tr>
+  
+</table>
+
 ### Connect with me
 
 <p align="center" style="padding:10px 0">
