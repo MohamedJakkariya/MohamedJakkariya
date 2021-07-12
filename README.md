@@ -18,7 +18,7 @@
 
 I'm a <strong> [full stack developer](https://mddev.tech). </strong> Currently pursuing <strong> [Computer Science and Engineering.](https://)</strong> I'm very passsionate and in love with programming. In future, I'd like to become an android developer. I like to teach and I'm a foody guy but will look slim. I spend my free time scrolling though social media, reading books and watching series.
 
-I have done full stack some projects on in an internship. Currently working on <strong>[Fleksa organization](https://fleksa.com)</strong> as an intern for almost 11 months from now.
+I have done full stack some projects on in an internship. Currently working on <strong>[Fleksa organization](https://fleksa.com)</strong> as an intern for almost 1+ year from now. I was done couple of freelancer projects as well. Ping me anytime 😉
 
 ### Experienced in
 <table>
