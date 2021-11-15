@@ -120,6 +120,10 @@ I have done full stack some projects on in an internship. Currently working on <
     </a>
 </p>
 
+<h4 align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=MohamedJakkariya&style=flat-square&color=brightgreen">
+</h4>
+
 ### States about me
 
 <a href="https://github.com/MohamedJakkariya/github-readme-stats">
