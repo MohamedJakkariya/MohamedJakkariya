@@ -67,6 +67,7 @@ I have done full stack some projects on in an internship. Currently working on <
          <li>Material Design</li>
          <li>Ant Design</li>
          <li>Bootstrap 4 & 5</li>
+          <li>Tailwind CSS </li>
          <li>Feather Icons, Svg, Material Icons, and so on</li>
        </ul>
       </td>   
@@ -77,6 +78,7 @@ I have done full stack some projects on in an internship. Currently working on <
          <li>DynamoDB</li>
          <li>InfluxDB</li>
          <li>Redis</li>
+          <li>Sqlite3</li>
        </ul>
       </td>
       <td>
